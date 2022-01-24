@@ -1,0 +1,24 @@
+{
+    "name": "vendoir-challenge",
+    "version": "1.0.0",
+    "description": "Numeric time human friendly text",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hsddev/vendoir-challenge.git"
+    },
+    "author": "hsddev",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hsddev/vendoir-challenge/issues"
+    },
+    "homepage": "https://github.com/hsddev/vendoir-challenge#readme",
+    "dependencies": {
+        "express": "^4.17.2",
+        "number-to-words": "^1.2.4"
+    }
+}
